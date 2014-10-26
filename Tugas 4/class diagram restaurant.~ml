@@ -3366,7 +3366,7 @@
 <XPD:ATTR name="Left" type="integer">560</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">16</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">112</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">95</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">69</XPD:ATTR>
 <XPD:REF name="Model">dZCDH2N2KUqjzVpytY+PLQAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="XsAOz6VXIEO2wU1/es4sDAAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="Es0+sGqw/keMhP5OgtHM8AAA">
@@ -3509,7 +3509,7 @@
 <XPD:OBJ name="OwnedViews[7]" type="UMLAssociationView" guid="j0zBepy0eEGJTy+NIfR4RwAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">258,100;560,69</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">258,98;560,57</XPD:ATTR>
 <XPD:REF name="Model">XjLsrQX1h0up2PUjXnJQHwAA</XPD:REF>
 <XPD:REF name="Head">mXSjffUbd0qbDHtPROLfrQAA</XPD:REF>
 <XPD:REF name="Tail">YfYQkmUGU0ifwi+VmhzP8wAA</XPD:REF>
@@ -3593,7 +3593,7 @@
 <XPD:OBJ name="OwnedViews[8]" type="UMLAssociationView" guid="tLi90Z4FRkmTCx2CN5jArAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">635,110;651,148</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">628,84;653,148</XPD:ATTR>
 <XPD:REF name="Model">GrLbJsHQQ0KZlPKseAi1RAAA</XPD:REF>
 <XPD:REF name="Head">HlvXec0pkkideHEUURLaRAAA</XPD:REF>
 <XPD:REF name="Tail">mXSjffUbd0qbDHtPROLfrQAA</XPD:REF>
@@ -4185,15 +4185,6 @@
 <XPD:REF name="Views[1]">t8+CD7lztkyVY6hHU8MaBQAA</XPD:REF>
 <XPD:REF name="Views[2]">T+k7wyLN+0+jjc303Z4rdQAA</XPD:REF>
 <XPD:REF name="Views[3]">O2YqGUySe0u3Kn8o8cWmBwAA</XPD:REF>
-<XPD:ATTR name="#Operations" type="integer">2</XPD:ATTR>
-<XPD:OBJ name="Operations[0]" type="UMLOperation" guid="5tlNxBQj20a13QfGOB2ujwAA">
-<XPD:ATTR name="Name" type="string">get kode_menu</XPD:ATTR>
-<XPD:REF name="Owner">dZCDH2N2KUqjzVpytY+PLQAA</XPD:REF>
-</XPD:OBJ>
-<XPD:OBJ name="Operations[1]" type="UMLOperation" guid="ksVbMUZooEizZNi+WaVypAAA">
-<XPD:ATTR name="Name" type="string">get nama_menu</XPD:ATTR>
-<XPD:REF name="Owner">dZCDH2N2KUqjzVpytY+PLQAA</XPD:REF>
-</XPD:OBJ>
 <XPD:ATTR name="#Associations" type="integer">2</XPD:ATTR>
 <XPD:REF name="Associations[0]">e25MY4M450aizemh4cmOPwAA</XPD:REF>
 <XPD:REF name="Associations[1]">TCbHRWGxpUm0Jisq4G0RLgAA</XPD:REF>
